@@ -1,0 +1,47 @@
+.bodyContainer {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+#clock {
+  font-size: 250px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.userForm {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.userForm input {
+  margin-right: 20px;
+  padding: 5px 20px;
+  padding-left: 20px;
+  border-radius: 20px;
+}
+
+.userForm button {
+}
+
+#greeting {
+  border: 1px solid;
+  margin: 30px 0;
+  font-size: 50px;
+  padding: 10px 0;
+}
+
+#todo-form input {
+  margin-bottom: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+#weather {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+}
